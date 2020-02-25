@@ -11,3 +11,12 @@ cd import-submodule
 
 go run main.go
 ```
+
+prints:
+
+```
+F01
+F01 v2
+F02 in module: github.com/vikyd/submodule01/module01
+F02 in module: github.com/vikyd/submodule01/module01/v2 , yeah v2
+```
