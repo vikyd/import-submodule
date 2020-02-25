@@ -1,0 +1,8 @@
+github.com/vikyd/submodule01 v1.0.0 h1:k0eEVEraOtfBFtfHqlDRzUVozIWGH27go9lYYj6DlNw=
+github.com/vikyd/submodule01 v1.0.0/go.mod h1:INPDDObCXbBj5ldMfgHdjE5Oho+lkr38+6C6nyZa5SU=
+github.com/vikyd/submodule01/module01 v1.2.3 h1:qPTEloQDuETnpx8JSCtFhBrcAA2mj+cmfR6ts5Ag7mg=
+github.com/vikyd/submodule01/module01 v1.2.3/go.mod h1:GWc59eiIBm3x340mjdP9c7yT6/7r6i7tXUfnWdgbddo=
+github.com/vikyd/submodule01/module01/v2 v2.3.4 h1:H2Bmh+ILrpFp2nkuiWrErM9QZYSQSBU1Kt5VsCDGaNo=
+github.com/vikyd/submodule01/module01/v2 v2.3.4/go.mod h1:J4oHZFwCfCIZ21Te+9kWvzkAoqEzSDRye3Dx7yzotyI=
+github.com/vikyd/submodule01/v2 v2.1.1 h1:eYyLxl+OlD6v8Go15l+TzSOvM1WN0JZRs2HYY1JNw14=
+github.com/vikyd/submodule01/v2 v2.1.1/go.mod h1:pRLAhIWBkPVDoO8pPK5O0SZ1hT4rdlcrvMDSvLL0aDQ=
