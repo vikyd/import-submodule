@@ -1,8 +1,6 @@
 package main
 
 import (
-	"fmt"
-
 	"github.com/vikyd/submodule01"
 	"github.com/vikyd/submodule01/module01"
 	module01v2 "github.com/vikyd/submodule01/module01/v2"
@@ -10,7 +8,6 @@ import (
 )
 
 func main() {
-	fmt.Println("vim-go")
 	submodule01.F01()
 	submodule01v2.F01()
 	module01.F02()
